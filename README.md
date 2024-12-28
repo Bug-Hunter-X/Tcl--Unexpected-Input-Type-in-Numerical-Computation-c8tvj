@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl when performing numerical computations: not handling unexpected input types.  The `wrong_proc` procedure fails when it receives a non-numeric input. The `correct_proc` demonstrates a solution using string validation.
